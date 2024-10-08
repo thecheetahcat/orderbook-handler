@@ -14,7 +14,7 @@ setup(
     description='Orderbook data handler package',
     author='Leo Martinez',
     author_email='leojmartinez@proton.me',
-    url='https://github.com/thecheetahcat/socket-client',
+    url='https://github.com/thecheetahcat/orderbook-handler',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
