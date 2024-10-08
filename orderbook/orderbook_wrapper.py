@@ -1,8 +1,8 @@
+from .orderbook_interface import OrderBookInterface
+from .tracker_interface import TrackerInterface
+from .update_strategy_interface import UpdateStrategyInterface
+from .constants import BookSide
 from abc import ABC
-from orderbook_interface import OrderBookInterface
-from tracker_interface import TrackerInterface
-from update_strategy_interface import UpdateStrategyInterface
-from constants import BookSide
 from sortedcontainers import SortedDict
 
 

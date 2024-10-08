@@ -1,6 +1,6 @@
+from .constants import SORTED_BOOK, BookSide
 from abc import ABC, abstractmethod
 from sortedcontainers import SortedDict
-from constants import SORTED_BOOK, BookSide
 from typing import Any, Optional
 
 
